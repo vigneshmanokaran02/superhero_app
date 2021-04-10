@@ -1,5 +1,7 @@
 import 'package:flutter/foundation.dart';
 
+//Superhero model description
+
 class SuperheroModel {
   final String name;
   final Map<String, dynamic> powerStats;
